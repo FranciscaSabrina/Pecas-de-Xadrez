@@ -1,1 +1,1 @@
-# Pe-as-de-Xadrez
+# Pecas-de-Xadrez
